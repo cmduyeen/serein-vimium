@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+backups/
+install-state.json
+last-session.json
+.preview/
